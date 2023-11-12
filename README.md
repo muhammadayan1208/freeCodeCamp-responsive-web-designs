@@ -15,3 +15,7 @@ Project-4 of FCC (FreeCodeCamp) of making a basic registration form. Very easy a
 +
 <br>
 Project-5 of FreeCodeCamp for Rothko Painting. I learn html and css which is very helpful for me.
+<br>
++
+<br>
+Project-6 of FreeCodeCamp of making a photo gallery of cats!
