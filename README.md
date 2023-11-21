@@ -23,3 +23,7 @@ Project-6 of FreeCodeCamp of making a photo gallery of cats!
 +
 <br>
 Project-7 of FreeCodeCamp of making nutrition label.
+<br>
++
+<br>
+Project-8 of making Accessibility Quiz from FCC (FreeCodeCamp).
