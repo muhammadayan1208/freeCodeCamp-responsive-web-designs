@@ -31,3 +31,7 @@ Project-8 of making Accessibility Quiz from FCC (FreeCodeCamp).
 +
 <br>
 Project-9 of making Balance Sheet From FCC freeCodeCamp.
+<br>
++
+<br>
+Project-10 of making cat painting from FCC freeCodeCamp.
