@@ -43,3 +43,7 @@ Project-11 of making piano form FCC freeCodeCamp.
 + 
 <br>
 Project-12 of building a city skyline from FCC freeCodeCamp.
+<br>
++
+<br>
+Project of making magazine of FCC freeCodeCamp.
