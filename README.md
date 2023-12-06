@@ -1,1 +1,1 @@
-Project-1 of making a cat web.
+Project-1 of (FreeCodeCamp) FCC of building cat photo app
