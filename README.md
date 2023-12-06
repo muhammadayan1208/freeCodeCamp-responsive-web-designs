@@ -46,4 +46,4 @@ Project-12 of building a city skyline from FCC freeCodeCamp.
 <br>
 +
 <br>
-Project of making magazine of FCC freeCodeCamp.
+Project-13 of making magazine of FCC freeCodeCamp.
