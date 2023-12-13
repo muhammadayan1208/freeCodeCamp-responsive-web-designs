@@ -1,1 +1,1 @@
-Project of making product landing page from FCC freeCodeCamp.
+- Project of making product landing page from FCC freeCodeCamp.
