@@ -1,78 +1,76 @@
 body {
-  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
-  font-family: sans-serif;
-  padding: 20px;
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+font-family: sans-serif; 
+padding: 20px;
+}
+  
+h1{
+    font-size: 40px;
 }
 
-h1 {
-  font-size: 40px;
+h2{
+    font-size: 30px;
 }
 
-h2 {
-  font-size: 30px;
+h1,h2{
+    font-family: Impact;
 }
 
-h1,
-h2 {
-  font-family: Impact;
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-h1,
-h2,
-p {
-  text-align: center;
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.menu {
-  width: 80%;
-  background-color: burlywood;
-  margin-left: auto;
-  margin-right: auto;
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.flavor , .dessert{
+    text-align: left;
+    width: 75%;
 }
 
-.item p {
-  display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font-size: 18px;
+.price{
+    text-align: right;
+  width: 24%
 }
 
-.flavor,
-.dessert {
-  text-align: left;
-  width: 75%;
+.established{
+    font-style: italic;
 }
 
-.price {
-  text-align: right;
-  width: 24%;
+hr{
+    height: 3px;
+    width: 90%;
+    background-color: brown;
+    border-color: brown;
 }
 
-.established {
-  font-style: italic;
+a{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 10px;
+color: black;
 }
 
-hr {
-  height: 3px;
-  width: 90%;
-  background-color: brown;
-  border-color: brown;
+p{
+    margin-top: 30px;
 }
 
-a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 10px;
-  color: black;
-}
 
-p {
-  margin-top: 30px;
-}
