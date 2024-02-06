@@ -8,7 +8,7 @@
 
 - Project-5 of FreeCodeCamp for Rothko Painting. I learn html and css which is very helpful for me.
 
-- Project-6 of FreeCodeCamp of making a photo gallery of cats!
+- Project-6 of FreeCodeCamp of making a photo gallery of cats.
 
 - Project-7 of FreeCodeCamp of making nutrition label.
 
