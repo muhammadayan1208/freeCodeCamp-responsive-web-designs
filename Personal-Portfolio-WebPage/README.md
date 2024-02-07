@@ -1,1 +1,1 @@
-- Project of making a Personal Portfolio Webpage from FCC freeCodeCamp.
+- Project of making a Personal Portfolio Webpage from FCC freeCodeCamp. From this project we can improve our html and css skills.
