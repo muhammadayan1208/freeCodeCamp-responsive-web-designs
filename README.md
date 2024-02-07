@@ -1,1 +1,1 @@
-- Project of making a Technical Documentation Page from FCC freeCodeCamp.
+- Project of making a Technical Documentation Page from FCC (freeCodeCamp). This improves html and css skills. I came to know about many new concepts about html and css.
