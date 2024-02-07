@@ -1,1 +1,1 @@
-- Project-14 of making a ferris wheel from FCC freeCodeCamp.
+- Project-14 of making a ferris wheel from FCC freeCodeCamp. This project is best for practice to learn about styling and colors in website using css. This help to improve html and css skills.

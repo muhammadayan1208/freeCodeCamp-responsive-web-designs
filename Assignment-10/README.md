@@ -1,1 +1,1 @@
-- Project-10 of making cat painting from FCC freeCodeCamp.
+- Project-10 of making cat painting from FCC (freeCodeCamp). It helps in improving html , css skills.

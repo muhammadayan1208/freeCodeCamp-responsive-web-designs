@@ -1,1 +1,1 @@
-- Project-15 of building a penguin to learn CSS from FCC freeCodeCamp.
+- Project-15 of building a penguin from FCC freeCodeCamp. From making this responsive penguin project we can improve and practice the html , css skills.
