@@ -1,1 +1,1 @@
-- Project of making a survey form of (FCC) freeCodeCamp.
+- Project of making a survey form of (FCC) freeCodeCamp. From this survey form we can learn and improve the html and css skills.
