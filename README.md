@@ -1,1 +1,1 @@
-- Project Of Making A Tribute Page Of FreeCodeCamp (FCC).
+- Project Of Making A Tribute Page Of freeCodeCamp (FCC). This is a very common project. This project is a good practice for improving html , css skills.
