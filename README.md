@@ -21,3 +21,5 @@
 - Project-11 of making piano form FCC freeCodeCamp. It helps to learn html , css. This is a good practice for improving html and css skills.
 
 - Project of making a survey form of (FCC) freeCodeCamp. From this survey form we can learn and improve the html and css skills.
+
+- Project Of Making A Tribute Page Of freeCodeCamp (FCC). This is a very common project. This project is a good practice for improving html , css skills.
