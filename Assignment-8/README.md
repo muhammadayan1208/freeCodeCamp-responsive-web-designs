@@ -1,0 +1,1 @@
+- Project-8 of making Accessibility Quiz from FCC (FreeCodeCamp). Solving this quiz is a good practice to improve html and css skills.
