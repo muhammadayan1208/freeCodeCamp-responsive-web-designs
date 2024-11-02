@@ -27,3 +27,13 @@
 - Project-14 of making a ferris wheel from FCC freeCodeCamp. This project is best for practice to learn about styling and colors in website using css. This help to improve html and css skills.
 
 - Project-15 of building a penguin from FCC freeCodeCamp. From making this responsive penguin project we can improve and practice the html , css skills.
+
+- Project of making a survey form of (FCC) freeCodeCamp. From this survey form we can learn and improve the html and css skills.
+
+- Project Of Making A Tribute Page Of freeCodeCamp (FCC). This is a very common project. This project is a good practice for improving html , css skills.
+
+- Project of making a Technical Documentation Page from FCC (freeCodeCamp). This improves html and css skills. I came to know about many new concepts about html and css.
+
+- Project of making product landing page from FCC freeCodeCamp. This is a good practice to improve html and css skills.
+
+- Project of making a Personal Portfolio Webpage from FCC freeCodeCamp. From this project we can improve our html and css skills.
