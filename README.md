@@ -23,3 +23,5 @@
 - Project of making a survey form of (FCC) freeCodeCamp. From this survey form we can learn and improve the html and css skills.
 
 - Project Of Making A Tribute Page Of freeCodeCamp (FCC). This is a very common project. This project is a good practice for improving html , css skills.
+
+- Project of making a Technical Documentation Page from FCC (freeCodeCamp). This improves html and css skills. I came to know about many new concepts about html and css.
