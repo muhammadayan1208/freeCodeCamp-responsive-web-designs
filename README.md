@@ -33,3 +33,5 @@
 - Project of making a Technical Documentation Page from FCC (freeCodeCamp). This improves html and css skills. I came to know about many new concepts about html and css.
 
 - Project of making product landing page from FCC freeCodeCamp. This is a good practice to improve html and css skills.
+
+- Project of making a Personal Portfolio Webpage from FCC freeCodeCamp. From this project we can improve our html and css skills.
