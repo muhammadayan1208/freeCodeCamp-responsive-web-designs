@@ -2,7 +2,7 @@
 
 - Project-2 of FCC (FreeCodeCamp) for learning basic CSS by building a Cafe Menu! It's a responsive web-design of FCC (FreeCodeCamp).
 
-- Project-3 of FCC (FreeCodeCamp) of Basic Concept Of (CSS Color Markers) From FCC (FreeCampCode) such as : RGB , HEX , HSL . From this I learnt great concepts about color markers and how to add a perfect gradient color and many others.
+- Project-3 of FCC (FreeCodeCamp) of Basic Concept Of (CSS Color Markers) From FCC (FreeCampCode) such as : RGB , HEX , HSL . From this I learnt great concepts about color markers and how to add a perfect gradient color and many others about css.
 
 - Project-4 of FCC (FreeCodeCamp) of making a basic registration form. This helps us to learn that how to make a registration form in easy way. Very easy and great registration form to learn and practice for html and css skills.
 
@@ -11,3 +11,5 @@
 - Project-6 of FreeCodeCamp of making a photo gallery of cats. It helps to learn html , css. This is a good practice for improving html and css skills.
 
 - Project-7 of FreeCodeCamp of making nutrition label. It is very helpful to improve html , css skills by building this nutrition label from FCC freeCodeCamp.
+
+- Project-8 of making Accessibility Quiz from FCC (FreeCodeCamp). Solving this quiz is a good practice to improve html and css skills.
