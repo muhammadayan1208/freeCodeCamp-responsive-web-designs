@@ -1,0 +1,1 @@
+- Project-6 of FCC (FreeCodeCamp) of making a photo gallery of cats. It helps to learn html , css. This is a good practice for improving html and css skills.
