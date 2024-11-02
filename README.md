@@ -15,3 +15,5 @@
 - Project-8 of making Accessibility Quiz from FCC (FreeCodeCamp). Solving this quiz is a good practice to improve html and css skills.
 
 - Project-9 of making Balance Sheet from FCC (freeCodeCamp). The html, css skills can be improved by making this balance sheet.
+
+- Project-10 of making cat painting from FCC (freeCodeCamp). It helps in improving html , css skills.
