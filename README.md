@@ -13,3 +13,5 @@
 - Project-7 of FreeCodeCamp of making nutrition label. It is very helpful to improve html , css skills by building this nutrition label from FCC freeCodeCamp.
 
 - Project-8 of making Accessibility Quiz from FCC (FreeCodeCamp). Solving this quiz is a good practice to improve html and css skills.
+
+- Project-9 of making Balance Sheet from FCC (freeCodeCamp). The html, css skills can be improved by making this balance sheet.
