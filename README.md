@@ -25,3 +25,5 @@
 - Project Of Making A Tribute Page Of freeCodeCamp (FCC). This is a very common project. This project is a good practice for improving html , css skills.
 
 - Project of making a Technical Documentation Page from FCC (freeCodeCamp). This improves html and css skills. I came to know about many new concepts about html and css.
+
+- Project of making product landing page from FCC freeCodeCamp. This is a good practice to improve html and css skills.
