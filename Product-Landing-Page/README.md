@@ -1,0 +1,1 @@
+- Project of making product landing page from FCC freeCodeCamp. This is a good practice to improve html and css skills.

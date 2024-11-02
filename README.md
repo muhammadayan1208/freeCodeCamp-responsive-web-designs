@@ -23,3 +23,11 @@
 - Project-12 of building a city skyline from FCC (freeCodeCamp). It helps in improving html , css skills.
 
 - Project-13 of making magazine of FCC (freeCodeCamp). Making this magazine is a good practice to improve html and css.
+
+- Project of making a survey form of (FCC) freeCodeCamp. From this survey form we can learn and improve the html and css skills.
+
+- Project Of Making A Tribute Page Of freeCodeCamp (FCC). This is a very common project. This project is a good practice for improving html , css skills.
+
+- Project of making a Technical Documentation Page from FCC (freeCodeCamp). This improves html and css skills. I came to know about many new concepts about html and css.
+
+- Project of making product landing page from FCC freeCodeCamp. This is a good practice to improve html and css skills.
